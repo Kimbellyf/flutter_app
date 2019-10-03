@@ -3,6 +3,7 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:flutter_app/pages/login.page.dart';
 
+//tela splash
 void main() => runApp(MaterialApp(home: MyApp()));
 
 class MyApp extends StatefulWidget{
